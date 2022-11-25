@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adekoyaag
 - 👀 I’m interested in Data Engineering and Analytics
-- 🌱 I am a Postgraduate student of Big Data Analytics at Birmingham City University, UK and with over previous 5 years experience as a Microsoft BI Stack Developer. 
-- I am a cloud Data Engineer. 
+- 🌱 Over 5 years experience as a Microsoft BI Stack Developer. 
+- I am a Data Engineer. 
 - 💞️ I’m open to collaboration on Big Data Pipelines authoring in Cloud, Migration and Analytics. 
 - 📫 How to reach me @iammicade on instagram. 
 
